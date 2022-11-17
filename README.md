@@ -9,7 +9,8 @@
 
 </div>
 
-## Introduction
+## Introduction 
+
 This repository contains a way send bytes through TCP/IP with type of data is Image or String or string and image.
 
 ```bash
@@ -51,10 +52,10 @@ Custom TCP/TP send and receive numpy array
         data_send =concat(data_str_header,data_send)
 ```
 ## How to run
+
 1. Clone this repository.
 ` git clone  https://github.com/TieuDiem/TCP-IP-Python-Custom.git `
 2. Install lib.
 `pip install lib necessary`
 3. Run.
-Choose the mode send 
 Run server.py file and client file  
